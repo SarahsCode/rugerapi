@@ -1,1 +1,1 @@
-## A simple site to Host Dynamic QR Code logging. 
+## A simple site to host dynamic QR code logging. 
